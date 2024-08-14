@@ -50,13 +50,6 @@ The `Crime_Category` feature is encoded as follows:
 - `4`: Property Crimes
 - `5`: Violent Crimes
 
-## Project Structure
-
-- `data/`: Contains the dataset files.
-- `src/`: Source code for data preprocessing, model training, and evaluation.
-- `notebooks/`: Jupyter notebooks for exploratory data analysis and experimentation.
-- `README.md`: This file.
-
 ## Setup
 
 1. **Clone the Repository**
@@ -65,4 +58,15 @@ The `Crime_Category` feature is encoded as follows:
    git clone <repository-url>
    cd <repository-directory>
    ```
+## Models
+The project uses the following machine learning models:
+
+-Scikit-learn models (e.g., Logistic Regression, KNN, SVM)
+-XGBoost
+The models are compared to find the best-performing algorithm for the crime category prediction task.
+
+## Results
+The results of the model evaluation can be found in the Jupyter notebook located in the directory.
    
+## Contact
+For any questions or feedback, please contact gauravginodia02@gmail.com
