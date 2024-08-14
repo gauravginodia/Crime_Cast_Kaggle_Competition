@@ -10,7 +10,7 @@ The dataset consists of the following files:
 
 - `train.csv`: Training set with the target variable `crime_category` and feature attributes.
 - `test.csv`: Test set with similar feature attributes but without the `crime_category` column.
-- `sample_submission.csv`: A sample submission file in the correct format for competition submissions.
+- `sample.csv`: A sample submission file in the correct format for competition submissions.
 
 ### Features
 
